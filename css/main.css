@@ -1,6 +1,10 @@
 .navbar-custom {
          background-color: #eedeba;
 }
+body {
+         background-color: #eafdfe;
+         padding-top: 200px;
+}
 
 .btn-outline-primary:hover {
          background-color: #07a3f3 !important;
@@ -11,4 +15,8 @@
          background-color: #02b4ff !important;
          border-color: #02b4ff;
          color: white;
+}
+
+.strong-titule {
+         color: #02b4ff;
 }
