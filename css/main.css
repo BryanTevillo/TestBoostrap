@@ -1,0 +1,14 @@
+.navbar-custom {
+         background-color: #eedeba;
+}
+
+.btn-outline-primary:hover {
+         background-color: #07a3f3 !important;
+         border-color: #07a3f3;
+}
+
+.btn-outline-primary {
+         background-color: #02b4ff !important;
+         border-color: #02b4ff;
+         color: white;
+}
